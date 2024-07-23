@@ -15,11 +15,11 @@ Este es el repositorio del portafolio de Mariana Rueda Florez, donde puedes cono
 
 ![Captura de pantalla del portafolio](https://github.com/user-attachments/assets/d13837bb-780d-4910-a191-1dd0c80073d9)
 
-## Tecnologías Utilizadas
+## Tecnologías Utilizadas 📱
 
 - HTML y CSS
 
-## Funcionalidades 🛠️
+## Funcionalidades 🧮
   Inicio:En Esta Seccion Encontra una foto mia y mis redes sociales
   Skills: En esta seccion encontrara mids habilidades en programacion
   Formación Académica: En esta seccion encontrara donde  me forme academicamente
