@@ -1,15 +1,24 @@
 # Portafolio de Mariana Rueda Florez 💻
 
-Este es el repositorio del portafolio de Mariana Rueda Florez, donde puedes conocer más sobre mis habilidades, formación académica, experiencia y cómo contactarme.
+¡Bienvenido al repositorio del portafolio de Mariana Rueda Florez!
+
+En este espacio, podrás explorar de cerca mi trayectoria como desarrolladora de software y conocer más sobre mis habilidades técnicas, experiencia educativa y profesional, así como la forma en que puedes contactarme para colaboraciones y oportunidades.
 
 ## Tabla de contenido
 | Indice | Título  |
 |--|--|
 | 1. | [Descripción](#Descripcion) |
-| 2. | [Funcionalidades](#Funcionalidades) |
+| 2. | [Captura de pantalla](#Captura de pantalla) |
 | 3. | [Tecnologías Utilizadas](#Tenologia_Usada) |
-| 4. | [Instrucciones de Ejecución](#Instrucciones) |
-| 5. | [Autores](#Autores) |
+| 4. | [Funcionalidades](#Funcionalidades) |
+| 5. | [Instrucciones de Ejecución](#Instrucciones) |
+| 6. | [Contacto](#Contacto) |
+| 7. | [Autores](#Autores) |
+
+
+
+## Descripcion🚀
+Este es el repositorio del portafolio de Mariana Rueda Florez, donde puedes conocer más sobre mis habilidades, formación académica, experiencia y cómo contactarme.
 
 ## Captura de pantalla 📷
 
