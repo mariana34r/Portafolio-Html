@@ -8,7 +8,7 @@ En este espacio, podrás explorar de cerca mi trayectoria como desarrolladora de
 | Indice | Título  |
 |--|--|
 | 1. | [Descripción](#Descripcion) |
-| 2. | [Captura de pantalla](#Captura de pantalla) |
+| 2. | [Captura de pantalla](Captura_de_pantalla) |
 | 3. | [Tecnologías Utilizadas](#Tenologia_Usada) |
 | 4. | [Funcionalidades](#Funcionalidades) |
 | 5. | [Instrucciones de Ejecución](#Instrucciones) |
